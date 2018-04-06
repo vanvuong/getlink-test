@@ -1,0 +1,24 @@
+.about {
+  width: 100%;
+  height: 80vh;
+  background-size: cover;
+
+  .info {
+    padding-top: 50px;
+    padding-left: 50px;
+
+    .title1 {
+      color: #fff;
+    }
+
+    .title2 {
+      color: #28D2AF;
+    }
+
+    p {
+      color: #fff;
+      width: 50%;
+      font-weight: 700;
+    }
+  }
+}

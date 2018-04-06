@@ -1,0 +1,34 @@
+html {
+    box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+    box-sizing: inherit;
+    padding: 0;
+    margin: 0;
+}
+::-webkit-scrollbar {
+    background-color: #f7f7f7;
+    width: 3px;
+    height: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: #636363;
+    border-radius: 4px;
+    opacity: 0;
+}
+
+::-moz-scrollbar-thumb {
+    background-color: #636363;
+    border-radius: 4px;
+    opacity: 0;
+}
+
+::-moz-scrollbar {
+    background-color: #f7f7f7;
+    width: 3px;
+    height: 10px;
+}

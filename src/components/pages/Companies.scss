@@ -1,0 +1,21 @@
+.companies {
+  margin-right: 0 !important;
+  margin-left: 0 !important;
+
+  .company-img {
+    width: 100%;
+    height: 80vh;
+    overflow: hidden;
+    background-size: cover;
+    background-position: 50% 50%;
+  }
+
+  .company-info {
+    padding-top: 15vh;
+    padding-left: 32px;
+
+    .text2 {
+      color: #28D2AF;
+    }
+  }
+}

@@ -1,0 +1,28 @@
+.footer {
+  background-color: #dae0e5;
+  padding: 20px;
+  margin: 0 !important;
+
+  .footer-item {
+    p {
+      margin-bottom: 2px;
+      font-size: 15px;
+    }
+  }
+
+  .footer-link {
+    .footer-icon-follow {
+      margin-right: 5px;
+      font-size: 12px;
+      display: inline-block;
+      color: #97A5AF;
+      border: #97A5AF 1px solid;
+      padding: 4px 0 0 0;
+      text-align: center;
+      width: 25px;
+      border-radius: 50%;
+      box-sizing: border-box;
+      height: 25px;
+    }
+  }
+}
